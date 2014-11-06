@@ -1,0 +1,10 @@
+[package]
+
+name = "skyline"
+version = "0.1.0"
+authors = [ "joeneeman@gmail.com" ]
+
+[[lib]]
+
+name = "skyline"
+
